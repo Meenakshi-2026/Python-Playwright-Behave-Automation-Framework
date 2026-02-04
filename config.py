@@ -13,7 +13,7 @@ TIMEOUT = 30000  # Timeout in milliseconds for wait operations
 
 # Credentials
 USERNAME = "standard_user"
-PASSWORD = "secret_sauces"
+PASSWORD = "secret_sauce"
 
 # Screenshot Configuration
 TAKE_SCREENSHOTS = True
